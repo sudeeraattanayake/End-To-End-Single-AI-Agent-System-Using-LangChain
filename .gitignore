@@ -1,0 +1,28 @@
+# Environment variables / secrets
+.env
+.env.*
+**/.env
+**/.env.*
+
+.research.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local files
+*.log
+singleagent/
+
+singleagent/
